@@ -8,3 +8,4 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
  - [Práctica2](./TareaShida.md)
 
  Prueba Prueba al vivo y en directooo
+ Que giga Pro
