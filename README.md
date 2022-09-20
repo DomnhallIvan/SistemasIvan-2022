@@ -12,4 +12,5 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
  - [Práctica 1 2Parcial](https://github.com/DomnhallIvan/SistemasIvan-2022)
 
  Prueba Prueba al vivo y en directooo
- Que giga Pro la versión 1.0.0 Agregada B)
+ 
+ Versión 1.0.0 Agregada
