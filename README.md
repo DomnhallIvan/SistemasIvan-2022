@@ -39,7 +39,7 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
  1. ¿Cómo vinculas un repositorio local de Git con uno remoto en GitHub?
      - ~~~
  
-       git remote add origin https://github.com/usuario/repositorio.git.ejemplo #Aquí añadimos la dirección del repositorio de Github en el repositorio Git
+       git remote add origin https://github.com/usuario/repositorio.git.ejemplo (Aquí añadimos la dirección del repositorio de Github en el repositorio Git)
 
        ~~~
 
