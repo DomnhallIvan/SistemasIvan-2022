@@ -1,0 +1,29 @@
+commit 8933237c5ae333274cf008fb96aa8239f9a12660
+Author: Ivan PM <cdmx2125@amerike.edu.mx>
+Date:   Thu Sep 15 22:12:42 2022 -0500
+
+    Listo, en teoría
+
+commit 6b78b4228f13941000e731adad08cdecbaf9aed0
+Author: Ivan PM <cdmx2125@amerike.edu.mx>
+Date:   Tue Sep 6 14:39:29 2022 -0500
+
+    Ya agregue el link de la Práctica 4
+
+commit 4d5261db3f596fddf5c6a8f3fceeb6a42b647d2a
+Author: Ivan PM <cdmx2125@amerike.edu.mx>
+Date:   Thu Sep 1 17:12:09 2022 -0500
+
+    Que giga Pro
+
+commit f78490d646efc50a056d537811df851254a33c78
+Author: Ivan PM <cdmx2125@amerike.edu.mx>
+Date:   Thu Sep 1 17:05:20 2022 -0500
+
+    Prueba Prueba al vivo y en directooo
+
+commit a46c26e67c9996ac6b2ab1c9276271fb7a8c2bfa
+Author: Ivan PM <cdmx2125@amerike.edu.mx>
+Date:   Thu Sep 1 16:57:45 2022 -0500
+
+    Agregando contenido inicial al README
